@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Haswell7
+- 💻📚 I’m a Computer Engeneering student
+- 🧑‍💻 I like Web and iOS programming
