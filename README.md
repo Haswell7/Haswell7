@@ -1,6 +1,6 @@
 # About Me
 
-- 👋 Hi, I’m Carmine Otranto, 🇮🇹 Italian, 25
+- 👋 Hi, I’m Carmine Otranto, 🇮🇹 Italian, 26
 - 🧑‍💻 I'm a Freelance Web and Mobile Full-stack Developer
 - ✍🏻 I'm also UX/UI Designer when needed
 
